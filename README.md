@@ -1,5 +1,5 @@
 # React + Vite
-<img width="1920" height="980" alt="03 08 2025_15 32 55_REC" src="https://github.com/user-attachments/assets/4316c17f-7d9c-43c6-aeb3-df5b5e431c85" />
+
 
 <img width="1920" height="980" alt="03 08 2025_15 32 55_REC" src="https://github.com/user-attachments/assets/5f85306e-c7f6-4a98-b25f-2c77250d9f04" />
 <img width="1906" height="970" alt="03 08 2025_15 31 43_REC" src="https://github.com/user-attachments/assets/7292cbc5-723e-4c68-99d0-ee936af5ea16" />
